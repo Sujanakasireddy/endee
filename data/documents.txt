@@ -1,0 +1,5 @@
+Artificial Intelligence enables machines to learn from data.
+Machine learning is a subset of AI.
+Deep learning uses neural networks.
+Vector databases store embeddings for similarity search.
+Natural language processing helps computers understand human language.
