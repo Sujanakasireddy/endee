@@ -28,6 +28,4 @@ Run application
 
 python app.py
 
-## Example Query
 
-http://localhost:5000/chat?q=What is machine learning
